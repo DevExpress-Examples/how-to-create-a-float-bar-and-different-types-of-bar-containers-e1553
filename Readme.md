@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Window1.xaml](./CS/BarContainers/Window1.xaml) (VB: [Window1.xaml](./VB/BarContainers/Window1.xaml))**
+<!-- default file list end -->
 # How to create a float bar and different types of bar containers
 
 
